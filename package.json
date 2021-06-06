@@ -1,0 +1,22 @@
+{
+  "name": "buds-management-system-backend",
+  "version": "1.0.0",
+  "description": "BUDS Management System backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignator2020/BUDS-Management-System.git"
+  },
+  "author": "Vilsy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignator2020/BUDS-Management-System/issues"
+  },
+  "homepage": "https://github.com/ignator2020/BUDS-Management-System#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
